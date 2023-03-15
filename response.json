@@ -1,0 +1,9 @@
+{
+  "users" : [
+    {"name" : "Ali" , "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Till-Lindemann.jpg/220px-Till-Lindemann.jpg"}
+    ,
+    {"name" : "Another Ali" , "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sully_Erna%2C_Lead_Singer_of_Heavy_Metal_Band_Godsmack.jpg/170px-Sully_Erna%2C_Lead_Singer_of_Heavy_Metal_Band_Godsmack.jpg"}
+    ,
+    {"name" : "The other Ali" , "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/CoreyTaylorGmm.jpg/170px-CoreyTaylorGmm.jpg"}
+  ]
+}
